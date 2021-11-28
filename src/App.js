@@ -9,7 +9,7 @@ function App() {
   const [cartOpened, setCartOpened] = React.useState(false);
 
   React.useEffect(() => {
-    fetch('https://60d381a361160900173c93d3.mockapi.io/items')
+    fetch('https://61a3b08dd5e833001729212f.mockapi.io/items')
       .then((res) => {
         return res.json();
       })
@@ -28,7 +28,7 @@ function App() {
       <Header onClickCart={() => setCartOpened(true)} />
       <div className="content p-40">
         <div className="d-flex align-center justify-between mb-40">
-          <h1>Все кроссовки</h1>
+          <h1>Все футболки</h1>
           <div className="search-block d-flex">
             <img src="/img/search.svg" alt="Search" />
             <input placeholder="Поиск..." />

@@ -4,8 +4,8 @@ function Header(props) {
       <div className="d-flex align-center">
         <img width={40} height={40} src="/img/logo.png" />
         <div>
-          <h3 className="text-uppercase">React Sneakers</h3>
-          <p className="opacity-5">Магазин лучших кроссовок</p>
+          <h3 className="text-uppercase">React t-shirt</h3>
+          <p className="opacity-5">Магазин футболок</p>
         </div>
       </div>
       <ul className="d-flex">
