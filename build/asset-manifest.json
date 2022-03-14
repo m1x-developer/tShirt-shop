@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tShirt-shop/static/css/main.f91c5655.chunk.css",
+    "main.js": "/tShirt-shop/static/js/main.ea4e6c78.chunk.js",
+    "main.js.map": "/tShirt-shop/static/js/main.ea4e6c78.chunk.js.map",
+    "runtime-main.js": "/tShirt-shop/static/js/runtime-main.22bbe0a9.js",
+    "runtime-main.js.map": "/tShirt-shop/static/js/runtime-main.22bbe0a9.js.map",
+    "static/css/2.caa02cb8.chunk.css": "/tShirt-shop/static/css/2.caa02cb8.chunk.css",
+    "static/js/2.360f8f76.chunk.js": "/tShirt-shop/static/js/2.360f8f76.chunk.js",
+    "static/js/2.360f8f76.chunk.js.map": "/tShirt-shop/static/js/2.360f8f76.chunk.js.map",
+    "index.html": "/tShirt-shop/index.html",
+    "static/css/2.caa02cb8.chunk.css.map": "/tShirt-shop/static/css/2.caa02cb8.chunk.css.map",
+    "static/css/main.f91c5655.chunk.css.map": "/tShirt-shop/static/css/main.f91c5655.chunk.css.map",
+    "static/js/2.360f8f76.chunk.js.LICENSE.txt": "/tShirt-shop/static/js/2.360f8f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22bbe0a9.js",
+    "static/css/2.caa02cb8.chunk.css",
+    "static/js/2.360f8f76.chunk.js",
+    "static/css/main.f91c5655.chunk.css",
+    "static/js/main.ea4e6c78.chunk.js"
+  ]
+}
