@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tShirt-shop/static/css/main.f91c5655.chunk.css",
-    "main.js": "/tShirt-shop/static/js/main.66727757.chunk.js",
-    "main.js.map": "/tShirt-shop/static/js/main.66727757.chunk.js.map",
+    "main.js": "/tShirt-shop/static/js/main.13d9b8f7.chunk.js",
+    "main.js.map": "/tShirt-shop/static/js/main.13d9b8f7.chunk.js.map",
     "runtime-main.js": "/tShirt-shop/static/js/runtime-main.22bbe0a9.js",
     "runtime-main.js.map": "/tShirt-shop/static/js/runtime-main.22bbe0a9.js.map",
     "static/css/2.caa02cb8.chunk.css": "/tShirt-shop/static/css/2.caa02cb8.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.caa02cb8.chunk.css",
     "static/js/2.360f8f76.chunk.js",
     "static/css/main.f91c5655.chunk.css",
-    "static/js/main.66727757.chunk.js"
+    "static/js/main.13d9b8f7.chunk.js"
   ]
 }
